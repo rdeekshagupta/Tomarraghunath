@@ -1,0 +1,46 @@
+*{ margin: 0; padding: 0; font-family: 'Macondo', cursive;}
+    nav{height: 50px;
+    background-color: #81ecec;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo{
+    width: 20%;
+    color: #0984e3;
+    padding-left: 25px;
+
+}
+.menu{
+    width: 80%;
+    color: #0984e3;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+body {
+    background-color: rgba(27, 31, 34, 0.85);
+}
+
+.menudropdown1 {
+    width: 10%;
+    height: 50px;
+    align-items: center;
+    margin:0px auto;
+}
+.menudropdown1 ul li{
+    float: left;
+    color: white;
+    width: 220px;
+    font-size: 5vh;
+}
+
+.menudropdown1 ul li ul{
+    float: left;
+    color: white;
+    width: 120px;
+    list-style-type: circle;
+    position: relative;
+}

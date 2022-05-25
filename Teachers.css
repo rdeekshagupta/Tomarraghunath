@@ -21,11 +21,37 @@
 
 }
 body {
-    background-color: rgba(218, 160, 109, 0.85);
+    background-color: rgba(27, 31, 34, 0.85);
 }
 
 .APJ {
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+.content-table {
+    border-collapse: collapse;
+    margin: 1.5rem;
+    font-size: 0.9em;
+    min-width: 90rem
+}
+.content-table thead tr {
+    background-color: rgb(67, 133, 133);
+    color: azure;
+    text-align: center;
+    font-weight: bold;
+}
+.content-table th,
+.content-table td {
+    padding: 0.7rem 1rem;
+}
+.content-table tbody tr {
+border-bottom: 00.015rem solid #dddddd;
+}
+
+.content-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+.content-table tbody tr:last-of-type{
+    border-bottom: 0.04rem solid #009879;
 }

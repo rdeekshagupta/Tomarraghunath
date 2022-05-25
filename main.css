@@ -39,16 +39,16 @@ h1{
     left: 50%;
     top: 60%;
     transform: translate(-50%, -50%);
-    background-image: url(img/2.jpg4);
+    background-image: url(2.jpg4);
     background-size: 100% 100%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem white;
     animation:slider 20s infinite linear;
 }
 @keyframes slider {
-    0%{background-image: url(img/2.jpg);}
-    16%{background-image: url(img/3.jpg);}
-    32%{background-image: url(img/4.jpg);}
-    48%{background-image: url(img/5.jpg);}
-    65%{background-image: url(img/6.jpg);}
-    87%{background-image: url(img/7.jpg);}
+    0%{background-image: url(2.jpg);}
+    16%{background-image: url(3.jpg);}
+    32%{background-image: url(4.jpg);}
+    48%{background-image: url(5.jpg);}
+    65%{background-image: url(6.jpg);}
+    87%{background-image: url(7.jpg);}
 }

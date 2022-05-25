@@ -31,9 +31,9 @@ body {
 }
 .content-table {
     border-collapse: collapse;
-    margin: 1.5rem;
-    font-size: 0.9em;
-    min-width: 90rem
+    margin: 1.0rem;
+    font-size: 0.5em;
+    min-width: 80rem
 }
 .content-table thead tr {
     background-color: rgb(67, 133, 133);
@@ -43,7 +43,7 @@ body {
 }
 .content-table th,
 .content-table td {
-    padding: 0.7rem 1rem;
+    padding: 0.4rem 1rem;
 }
 .content-table tbody tr {
 border-bottom: 00.015rem solid #dddddd;

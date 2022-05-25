@@ -1,5 +1,5 @@
 *{ margin: 0; padding: 0; font-family: 'Macondo', cursive;}
-    nav{height: 50px;
+    nav{height: 3rem;
     background-color: #81ecec;
     display: flex;
     justify-content: space-around;
@@ -9,7 +9,7 @@
 .logo{
     width: 20%;
     color: #0984e3;
-    padding-left: 25px;
+    padding-left: 1.5rem;
 
 }
 .menu{

@@ -51,8 +51,8 @@ h1 {
     animation:slider 70s infinite linear;
     animation-direction:alternate;
     animation-fill-mode:both;
-    animation-duration: 5s;
-    animation-delay: 0s;
+    animation-duration: 8s;
+    animation-delay: 7s;
 }
 @keyframes slider {
     0%{background-image: url(physical\ education.jpeg);}

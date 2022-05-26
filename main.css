@@ -48,7 +48,7 @@ h1 {
     background-image: url(2.jpg4);
     background-size: 100% 100%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
-    animation:slider 120s infinite linear;
+    animation:slider 180s infinite linear;
 }
 @keyframes slider {
     0%{background-image: url(physical\ education.jpeg);}

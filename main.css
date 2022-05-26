@@ -51,8 +51,7 @@ h1 {
     animation:slider 100s infinite linear;
 }
 @keyframes slider {
-    0.0%{background-image: url(library.jpeg);}
-    7.5%{background-image: url(school\ project.jpeg);}
+    0.5%{background-image: url(school\ project.jpeg);}
     15%{background-image: url(social\ work.jpeg);}
     22.5%{background-image: url(girl\ education\ classroom.jpeg);}
     30%{background-image: url(principal.jpg);}

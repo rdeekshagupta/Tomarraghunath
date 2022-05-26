@@ -3,13 +3,13 @@
     background-color: #81ecec;
     display: flex;
     justify-content: space-around;
-    align-items: center;
-}
+    align-items: center;}
 
 @media(max-width:768px) {
     html {
         font-size: 45%;
     }
+}
 .logo{
     width: 30%;
     font-size: 1 rem;

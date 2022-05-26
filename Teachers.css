@@ -11,6 +11,12 @@
         font-size: 45%;
     }
 }
+
+@media(max-width:991px) {
+    html {
+        font-size: 55%;
+    }
+}
 .logo{
     width: 30%;
     font-size: 1 rem;

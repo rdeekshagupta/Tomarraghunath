@@ -48,22 +48,24 @@ h1 {
     background-image: url(2.jpg4);
     background-size: 100% 100%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
-    animation:slider 60s infinite linear;
+    animation:slider 120s infinite linear;
     animation-direction:alternate;
     animation-fill-mode:forwards;
-    animation-duration: 60s;
+    animation-duration: 120s;
     animation-delay: 0s;
 }
 @keyframes slider {
     0%{background-image: url(physical\ education.jpeg);}
-    10%{background-image: url(school\ project.jpeg);}
-    20%{background-image: url(social\ work.jpeg);}
-    30%{background-image: url(essaycompetition.jpeg);}
-    40%{background-image: url(examination.jpeg);}
-    60%{background-image: url(vaccination.jpeg);}
-    70%{background-image: url(teacherpledge.jpeg);}
-    80%{background-image: url(yoga.jpeg);}
-    85%{background-image: url(lab.jpeg);}
-    90%{background-image: url(6.jpeg);}
-    100%{background-image: url(girl\ education\ classroom.jpeg);}
+    8%{background-image: url(school\ project.jpeg);}
+    16%{background-image: url(social\ work.jpeg);}
+    24%{background-image: url(essaycompetition.jpeg);}
+    32%{background-image: url(examination.jpeg);}
+    40%{background-image: url(vaccination.jpeg);}
+    48%{background-image: url(teacherpledge.jpeg);}
+    56%{background-image: url(yoga.jpeg);}
+    64%{background-image: url(lab.jpeg);}
+    72%{background-image: url(6.jpeg);}
+    80%{background-image: url(girl\ education\ classroom.jpeg);}
+    88%{background-image: url(principal.jpg);}
+    96%{background-image: url(playground.jpg);}
 }

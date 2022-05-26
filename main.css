@@ -11,15 +11,15 @@
         font-size: 45%;
     }
 .logo{
-    width: 30%;
-    font-size: 1 rem;
+    width: 25%;
+    font-size: 0.75 rem;
     text-align: center;
     color: #0984e3;
     padding-left: 1 rem;
 }
 
 .menu{
-    width: 70%;
+    width: 75%;
     color: #0984e3;
     display: flex;
     justify-content: space-around;

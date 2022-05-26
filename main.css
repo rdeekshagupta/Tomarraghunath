@@ -50,7 +50,7 @@ h1 {
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
     animation:slider 70s infinite linear;
     animation-direction:alternate;
-    animation-fill-mode:forwards;
+    animation-fill-mode:both;
     animation-duration: 70s;
     animation-delay: 0s;
 }

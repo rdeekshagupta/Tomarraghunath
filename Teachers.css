@@ -39,12 +39,11 @@ body {
     border-collapse: collapse;
     margin: 1.0rem;
     font-size: 0.8em;
-    min-width: 50rem;
+    min-width: 80rem;
     border-radius: 0.3rem 0.3rem 0 0;
     box-shadow: 0 0 1.2rem rgba(0, 0, 0, 0.15);
     margin-left: auto;
     margin-right: auto;
-    display: flex;
     justify-content: space-around;
     align-items: center;
 }

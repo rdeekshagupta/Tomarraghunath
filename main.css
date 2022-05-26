@@ -48,7 +48,11 @@ h1 {
     background-image: url(2.jpg4);
     background-size: 100% 100%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
-    animation:slider 60s infinite linear;
+    animation:slider 70s infinite linear;
+    animation-direction:alternate;
+    animation-fill-mode:forwards;
+    animation-duration: 50s;
+    animation-delay: 0s;
 }
 @keyframes slider {
     0%{background-image: url(physical\ education.jpeg);}
@@ -61,5 +65,5 @@ h1 {
     80%{background-image: url(yoga.jpeg);}
     85%{background-image: url(lab.jpeg);}
     90%{background-image: url(6.jpeg);}
-    95%{background-image: url(girl\ education\ classroom.jpeg);}
+    100%{background-image: url(girl\ education\ classroom.jpeg);}
 }

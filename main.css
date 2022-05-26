@@ -52,16 +52,16 @@ h1 {
 }
 @keyframes slider {
     0%{background-image: url(physical\ education.jpeg);}
-    8%{background-image: url(school\ project.jpeg);}
-    16%{background-image: url(social\ work.jpeg);}
-    24%{background-image: url(girl\ education\ classroom.jpeg);}
-    32%{background-image: url(principal.jpg);}
-    40%{background-image: url(playground.jpg);}
-    48%{background-image: url(essaycompetition.jpeg);}
-    56%{background-image: url(examination.jpeg);}
-    64%{background-image: url(vaccination.jpeg);}
-    72%{background-image: url(teacherpledge.jpeg);}
-    80%{background-image: url(yoga.jpeg);}
-    88%{background-image: url(lab.jpeg);}
-    96%{background-image: url(6.jpeg);}
+    7.5%{background-image: url(school\ project.jpeg);}
+    15%{background-image: url(social\ work.jpeg);}
+    22.5%{background-image: url(girl\ education\ classroom.jpeg);}
+    30%{background-image: url(principal.jpg);}
+    37.5%{background-image: url(playground.jpg);}
+    45%{background-image: url(essaycompetition.jpeg);}
+    52.5%{background-image: url(examination.jpeg);}
+    60%{background-image: url(vaccination.jpeg);}
+    67.5%{background-image: url(teacherpledge.jpeg);}
+    75%{background-image: url(yoga.jpeg);}
+    82.5%{background-image: url(lab.jpeg);}
+    90%{background-image: url(6.jpeg);}
 }

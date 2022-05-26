@@ -49,10 +49,6 @@ h1 {
     background-size: 100% 100%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
     animation:slider 120s infinite linear;
-    animation-direction:alternate;
-    animation-fill-mode:forwards;
-    animation-duration: 120s;
-    animation-delay: 0s;
 }
 @keyframes slider {
     0%{background-image: url(physical\ education.jpeg);}

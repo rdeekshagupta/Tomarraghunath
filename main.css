@@ -48,10 +48,10 @@ h1 {
     background-image: url(2.jpg4);
     background-size: 100% 100%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
-    animation:slider 70s infinite linear;
+    animation:slider 100s infinite linear;
     animation-direction:alternate;
     animation-fill-mode:both;
-    animation-duration: 8s;
+    animation-duration: 10s;
     animation-delay: 7s;
 }
 @keyframes slider {

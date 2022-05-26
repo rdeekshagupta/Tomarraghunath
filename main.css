@@ -48,13 +48,18 @@ h1 {
     background-image: url(2.jpg4);
     background-size: 100% 100%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
-    animation:slider 20s infinite linear;
+    animation:slider 60s infinite linear;
 }
 @keyframes slider {
-    0%{background-image: url(2.jpg);}
-    16%{background-image: url(3.jpg);}
-    32%{background-image: url(4.jpg);}
-    48%{background-image: url(5.jpg);}
-    65%{background-image: url(6.jpg);}
-    87%{background-image: url(7.jpg);}
+    0%{background-image: url(physical\ education.jpeg);}
+    10%{background-image: url(school\ project.jpeg);}
+    20%{background-image: url(social\ work.jpeg);}
+    30%{background-image: url(essaycompetition.jpeg);}
+    40%{background-image: url(examination.jpeg);}
+    60%{background-image: url(vaccination.jpeg);}
+    70%{background-image: url(teacherpledge.jpeg);}
+    80%{background-image: url(yoga.jpeg);}
+    85%{background-image: url(lab.jpeg);}
+    90%{background-image: url(6.jpeg);}
+    95%{background-image: url(girl\ education\ classroom.jpeg);}
 }

@@ -51,7 +51,7 @@ h1 {
     animation:slider 70s infinite linear;
     animation-direction:alternate;
     animation-fill-mode:forwards;
-    animation-duration: 50s;
+    animation-duration: 70s;
     animation-delay: 0s;
 }
 @keyframes slider {

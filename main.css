@@ -60,7 +60,6 @@ h2 {
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
     animation:slider 20s infinite linear;
 }
-}
 @keyframes slider {
     0%{background-image: url(physical\ education.jpeg);}
     10%{background-image: url(school\ project.jpeg);}

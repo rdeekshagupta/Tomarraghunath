@@ -122,11 +122,11 @@ h2 {
         display: inline-block;
         padding: 0.2rem 0.2rem;
         color: #220369;
-        font-weight: 900;
+        font-weight: bold;
         text-transform: uppercase;
-        letter-spacing: 0.1rem;
+        letter-spacing: 0rem;
         text-decoration: none;
-        font-size: 0.85rem;
+        font-size: 0.95rem;
         overflow: hidden;
         transition: 0.2s;
   }

@@ -48,20 +48,18 @@ h2 {
     margin-top: 0.6rem;
 }
 .maindiv {
-    width: 70%;
+    width: 35%;
     position: absolute;
-    height: 24rem;
-    left: 50%;
-    top: 60%;
+    height: 17rem;
+    left: 62%;
+    top: 50%;
     transform: translate(-50%, -50%);
-    background-image: url(2.jpg4);
+    background-image: url(physical\ education.jpg);
     background-size: 100% 100%;
+    border-radius: 20%;
     box-shadow: 0.08rem 0.015rem 0.06rem 0.3rem black;
-    animation:slider 70s infinite linear;
-    animation-direction:alternate;
-    animation-fill-mode:forwards;
-    animation-duration: 50s;
-    animation-delay: 0s;
+    animation:slider 20s infinite linear;
+}
 }
 @keyframes slider {
     0%{background-image: url(physical\ education.jpeg);}
